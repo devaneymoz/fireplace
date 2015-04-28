@@ -903,7 +903,7 @@ msgstr "Aplikacje użytkowe – niezbędnik na komputer"
 
 #: /media/js/desktop_promo.js:41
 msgid "Om Nom needs candy!"
-msgstr "On Nom potrzebuje cukierków!"
+msgstr "On Nom potrzebuje cukierków! "
 
 #: /media/js/edbrands.js:33
 msgid "App for Albania"
