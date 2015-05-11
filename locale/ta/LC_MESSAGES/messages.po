@@ -832,11 +832,11 @@ msgstr ""
 
 #: /media/js/desktop_promo.js:21
 msgid "Puzzle Games—Desktop Essentials"
-msgstr ""
+msgstr "புதிர் கேம்கள்—டெஸ்க்டாப்பிற்கானது"
 
 #: /media/js/desktop_promo.js:26
 msgid "Play the addicting game of elements."
-msgstr ""
+msgstr "கூறுகள் அடிமையாக்கும் விளையாட்டு."
 
 #: /media/js/desktop_promo.js:31
 msgid "Om Nom needs candy!"
