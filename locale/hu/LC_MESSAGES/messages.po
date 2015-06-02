@@ -891,11 +891,11 @@ msgstr "weboldalak"
 #. Esc 4 Home app desktop promo (bug 1166114).
 #: /media/js/desktop_promo.js:20
 msgid "Escape from the worst boss ever."
-msgstr ""
+msgstr "Menekülj a világ legrosszabb főnökétől."
 
 #: /media/js/desktop_promo.js:26
 msgid "Manage all your messages in one place."
-msgstr ""
+msgstr "Minden üzenetedet kezeld egy helyen. "
 
 #: /media/js/desktop_promo.js:33
 msgid "Productivity Apps—Desktop Essentials"
@@ -907,7 +907,7 @@ msgstr "Játékok és szórakozás – Asztali kötelezők"
 
 #: /media/js/desktop_promo.js:46
 msgid "Save the girl, get the candy!"
-msgstr ""
+msgstr "Mentsd meg a lányt, szerezd meg a cukorkát!"
 
 #: /media/js/edbrands.js:33
 msgid "App for Albania"
