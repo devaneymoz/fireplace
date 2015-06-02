@@ -892,7 +892,7 @@ msgstr "weboldalak"
 
 #. Esc 4 Home app desktop promo (bug 1166114).
 #: /media/js/desktop_promo.js:20
-msgid "Escape from the worst boss ever."
+msgid "Escape from the worst boss ever. "
 msgstr "Menekülj a valaha volt legrosszabb főnök elől."
 
 #: /media/js/desktop_promo.js:26
