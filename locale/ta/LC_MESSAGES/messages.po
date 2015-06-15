@@ -1416,3 +1416,15 @@ msgstr ""
 #: /media/js/views/app/receipt.js:21
 msgid "Receipt"
 msgstr ""
+
+#: /media/js/desktop_promo.js:21
+msgid "Play this fantastic action puzzle game immediately."
+msgstr "இந்த அற்புதமான அதிரடி புதிர் கேமை உடனடியாக விளையாடுங்கள். "
+
+#: /media/js/desktop_promo.js:27
+msgid "Enjoy 15,000+ radio programs and podcasts."
+msgstr "Stitcher இல் 15,000 க்கும் மேலான ரேடியோ நிகழ்ச்சிகளையும் போட்காஸ்ட்களையும் கேட்டு மகிழுங்கள்."
+
+#: /media/js/desktop_promo.js:47
+msgid "Run for your life!"
+msgstr "வேகமாக செயல்படுங்கள்!"
