@@ -1438,3 +1438,15 @@ msgstr "रसीद देखने के लिए साइन इन कर
 #: /media/js/views/app/receipt.js:21
 msgid "Receipt"
 msgstr "रसीद"
+
+#: /media/js/desktop_promo.js:21
+msgid "Play this fantastic action puzzle game immediately."
+msgstr "इस शानदार एक्शन पज़ल गेम को तुरंत खेलें. "
+
+#: /media/js/desktop_promo.js:27
+msgid "Enjoy 15,000+ radio programs and podcasts."
+msgstr "स्टिचर के साथ 15,000+ रेडियो शो और पॉडकास्ट का आनंद लें."
+
+#: /media/js/desktop_promo.js:47
+msgid "Run for your life!"
+msgstr "अपने जीवन के लिए दौड़ें!"
