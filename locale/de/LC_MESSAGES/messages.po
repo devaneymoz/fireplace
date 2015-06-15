@@ -1427,3 +1427,15 @@ msgstr "Melden Sie sich bitte an, um die Quittung einzusehen"
 #: /media/js/views/app/receipt.js:21
 msgid "Receipt"
 msgstr "Quittung"
+
+#: /media/js/desktop_promo.js:21
+msgid "Play this fantastic action puzzle game immediately."
+msgstr "Mit diesem fesselnden Action-Puzzle-Spiel gleich loslegen!"
+
+#: /media/js/desktop_promo.js:27
+msgid "Enjoy 15,000+ radio programs and podcasts."
+msgstr "Stitcher: über 15.000 Radiosendungen und Podcasts."
+
+#: /media/js/desktop_promo.js:47
+msgid "Run for your life!"
+msgstr "Lauf um dein Leben!"
