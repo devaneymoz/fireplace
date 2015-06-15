@@ -1420,3 +1420,15 @@ msgstr "レシートを表示するにはログインしてください"
 #: /media/js/views/app/receipt.js:21
 msgid "Receipt"
 msgstr "レシート"
+
+#: /media/js/desktop_promo.js:21
+msgid "Play this fantastic action puzzle game immediately."
+msgstr "この奇想天外なアクションパズルゲームを今すぐプレイしよう。"
+
+#: /media/js/desktop_promo.js:27
+msgid "Enjoy 15,000+ radio programs and podcasts."
+msgstr "Stitcher で 15,000 以上のラジオ番組やポッドキャストをお楽しみください。"
+
+#: /media/js/desktop_promo.js:47
+msgid "Run for your life!"
+msgstr "逃げなきゃ死ぬぞ!"
