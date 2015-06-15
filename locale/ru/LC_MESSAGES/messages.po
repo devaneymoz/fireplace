@@ -1480,3 +1480,15 @@ msgstr "Пожалуйста, войдите, чтобы просмотреть 
 #: /media/js/views/app/receipt.js:21
 msgid "Receipt"
 msgstr "Чек"
+
+#: /media/js/desktop_promo.js:21
+msgid "Play this fantastic action puzzle game immediately."
+msgstr "Эта фантастическая головоломка немедленно заставит вас играть."
+
+#: /media/js/desktop_promo.js:27
+msgid "Enjoy 15,000+ radio programs and podcasts."
+msgstr "Stitcher откроет для вас более 15 000 радиошоу и подкастов."
+
+#: /media/js/desktop_promo.js:47
+msgid "Run for your life!"
+msgstr "Бегите, спасайте свою жизнь!"
